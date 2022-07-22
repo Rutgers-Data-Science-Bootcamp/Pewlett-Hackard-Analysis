@@ -20,7 +20,7 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 
 ## Summary
 
-At the moment at Pewlett Hackard, 72,464 employees are getting ready for retirement, which will mean that they are likely going to need an extensive hiring process in the upcoming years. Since a significant amount of future retirees hold Senior positions the mentorship program should provide a capacitation buffer for the extensive expertise that will be leaving the company in the years to come. 
+At the moment at Pewlett Hackard, 72,458 employees are getting ready for retirement, which will mean that they are likely going to need an extensive hiring process in the upcoming years. Since a significant amount of future retirees hold Senior positions the mentorship program should provide a capacitation buffer for the extensive expertise that will be leaving the company in the years to come. 
 Resources;
 
 Data Sources: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
