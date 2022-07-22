@@ -10,7 +10,7 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 
 ![EmployeeDB](https://user-images.githubusercontent.com/65901034/180116193-ab3f83d0-1396-437c-91da-cfff4aebb42f.png)
 
-      2. Total number of retiring senior employee is  72,464 as shown here by title:
+      2. Total number of retiring senior employee is  72,458 as shown here by title:
 
 <img width="280" alt="retiring titels" src="https://user-images.githubusercontent.com/65901034/180568443-f34f99cf-f797-4281-ab46-4a8087561c1c.png">
 
