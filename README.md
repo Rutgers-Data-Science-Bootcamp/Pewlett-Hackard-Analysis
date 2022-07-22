@@ -12,7 +12,7 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 
       2. Total number of retiring senior employee is  72,464 as shown here by title:
 
-![retiring_titels](https://user-images.githubusercontent.com/65901034/180118229-798853a7-2327-4315-a8e8-a005f4644d25.png)
+<img width="280" alt="retiring titels" src="https://user-images.githubusercontent.com/65901034/180568443-f34f99cf-f797-4281-ab46-4a8087561c1c.png">
 
       3. Total number of eligible mentorship candidates is 1549 as shown below:
 
