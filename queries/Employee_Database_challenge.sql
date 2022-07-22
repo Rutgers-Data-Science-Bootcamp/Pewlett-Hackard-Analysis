@@ -6,7 +6,7 @@ SELECT e.emp_no,
 ti.title,
 ti.from_date,
 ti.to_date
---INTO retirement_titles
+INTO retirement_titles
 FROM employees AS e
 INNER JOIN titles as ti
 ON (e.emp_no = ti.emp_no)
