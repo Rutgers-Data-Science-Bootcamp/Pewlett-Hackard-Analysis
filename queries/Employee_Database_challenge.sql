@@ -25,7 +25,7 @@ SELECT DISTINCT ON (rt.emp_no) rt.emp_no,
        --rt.to_date
 INTO unique_titels
 FROM retirement_titles AS rt
-WHERE rt.to_date ='1999-01-01'
+WHERE rt.to_date ='9999-01-01'
 ORDER BY rt.emp_no, rt.title DESC;
 SELECT * FROM unique_titels;
 --Step 16 retrieve the number of employees by their most recent job title who are about to retire
